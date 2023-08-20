@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build:prod": "ng build --configuration production --base-href https://yoyobabycool.github.io/customfontgen/",
-    "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
+    "test:headless": "ng test --watch=false --browsers=ChromeHeadless",
     "watch": "ng build --watch --configuration development"
   },
   "private": true,
